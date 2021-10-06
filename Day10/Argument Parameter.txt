@@ -1,0 +1,15 @@
+1. Positional Parameter : jkhn  ekta function call kora hobe tkhn jodi positional parameter use kori tahole
+			  shob variable gula position wise dite hobe
+			  2. jodi mixed parameter use kora hoy tahole positional parameter first e use korte hobe
+2. Named Parameter	: jekhan theke call kora hobe oitar jei format ta thakbe oi format e na diye rabdomly dileo cholbe
+			  suppose, jekhan theke call kora hoise age ase name,age. kintu jkhn function ta create kora hoise tkhn
+			  {age,name} dileo kono pera nai cholbe
+	have to use: {}
+	application: 
+3. Optional Parameter/
+   Default Parameter	: optional parameter hocche even if kono ekta parameter call kora hoy nai oikhane ekta default
+			  parameter thakbe and jodi shei parameter function e use kora hoy tkhn default ta use hobe kintu
+			  jodi function calling er time e kono value pass kore tahole sheta jabe tkhn default parameter e 
+			  assign kora value kaj korbe na
+	have to use: []
+4. Pure Function 	: Not using global variables use all the variable and declaration in the scope of the function

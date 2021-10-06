@@ -1,0 +1,24 @@
+void main() {
+  List<Map<String, String>> a = [{
+    "name" : "Rifat",
+    "age" : "25",
+    "email": "rifat@gmail.com"
+  },{
+    "name" : "Mom",
+    "age" : "50",
+    "email": "mom@gmail.com"
+  },{
+    "name" : "Sam",
+    "age" : "28",
+    "email": "sam@gmail.com"
+  },{
+    "name" : "Nishat",
+    "age" : "30",
+    "email": "nishat@gmail.com"
+  }];
+  
+  print(a);
+  
+  
+  
+}
